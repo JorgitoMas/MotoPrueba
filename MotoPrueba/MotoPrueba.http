@@ -1,0 +1,6 @@
+@MotoPrueba_HostAddress = http://localhost:5296
+
+GET {{MotoPrueba_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
